@@ -42,6 +42,9 @@ Robot shutting down.
 bundle exec ruby main.rb
 ```
 
+Or go to my [Repl.it](https://repl.it/@giubueno/Rover)
+
+
 ## Testing
 
 ```shell
