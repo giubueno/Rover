@@ -14,6 +14,7 @@ Command the robot with:
 
   def self.start
     bot = Bot.new
+    puts 'Hello! Robot coming online.'
     print_help
     option = 'X'
     until handle_option(option, bot)
